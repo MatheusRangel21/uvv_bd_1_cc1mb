@@ -6,7 +6,7 @@ Nome: Matheus Santos Rangel
 
 Professor: Abrantes Araújo Silva Filho
 
-Descrição:**Este PSet é uma das atividades pontuadas, Fazer com que você aprenda sobre sistemas de controles de versões, em especial
+Descrição:**Este PSet é uma das atividades pontuadas, Fazer com que você aprenda sobre sistemas de controles de versões, em especial 
 o Git e o serviço web GitHub e, ainda, aprender sobre Markdown.Fazer com que você aprenda a implementar projetos lógicos em diversos Sistemas
 de Gerenciamento de Bancos de Dados (SGBD), utilizando os quatro
 SGBD relacionais mais comuns e importantes hoje em dia: (PostgreSQL,
