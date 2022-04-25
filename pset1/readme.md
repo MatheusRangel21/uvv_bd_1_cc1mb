@@ -1,1 +1,3 @@
-Dois tipos de SGBD.
+Dois tipos de **SGBD.**
+
+**MariaDB** e **Postgres**
