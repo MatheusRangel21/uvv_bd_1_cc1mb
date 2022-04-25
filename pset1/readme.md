@@ -1,0 +1,1 @@
+Dois tipos de SGBD.
